@@ -116,6 +116,36 @@
           "imageUrl": "https://i.pinimg.com/236x/ef/30/81/ef3081c57dd278cc14f79c046b7f8a67.jpg",
           "theme": "Chic Simplicity"
         }
+
+        
+      ],
+
+      "eventProfessionals": [
+        {
+          "name": "Professional 1",
+          "specialty": "Floral Design"
+       
+        },
+        {
+          "name": "Professional 2",
+          "specialty": "Event Planning"
+          
+        }
+        
       ]
+    }
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
       
-}
+      
+      
+
