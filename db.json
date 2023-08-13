@@ -185,6 +185,41 @@
         }
       ],
       
+      "engagementDecoration": [
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydXLYjACo7GrOW1e1p6PuhAOY9OcbSTsfH7eBZ1G-S8Y_9plI61ksyI4OvV9gdgAaWXE&usqp=CAU",
+          "theme": "Romantic Blush"
+        },
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZqhVwoJ4LoxchSsf6WLUj6Z3t_zjzqiXp6WYW76hhqKZu9SqUmFe9yhMabEKusYbS0&usqp=CAU",
+          "theme": "Glamorous Gold"
+        },
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzAR4CFv7Br1wcoviuvtRuul5_XSHN3tFTw&usqp=CAU",
+          "theme": "Elegant Sparkle"
+        },
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJ_qR0Wl0COt1Mp4azJRlSxOHF-WHzZRIzA&usqp=CAU",
+          "theme": "Chic Elegance"
+        },
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPkq3pszJFaBckn1_ZpCKNcbO3H7OPlWFup0TAtBP8ht52184uNb35DYfcTH_N3bEttg&usqp=CAU",
+          "theme": "Opulent Glam"
+        },
+        {
+          "imageUrl": "https://i0.wp.com/bridalmusings.com/wp-content/uploads/2022/11/untitled-5.png?resize=%2C&ssl=1",
+          "theme": "Modern Elegance"
+        },
+        {
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEfr0HTPyuMD476XB2142tCMX7oTL7JSYIg&usqp=CAU",
+          "theme": "Vintage Glamour"
+        },
+        {
+          "imageUrl": "https://cfw.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoibXltYW5kYXAuaW4iLCJ2IjozNTA3MDAwMTg5LCJpIjoiMjJiNmMzY2MtNDE5NC00ZDJlLTkwMzYtYzMwMjk0NGFmMDAwIn0/wp-content/uploads/2022/08/Boho-props-_-Photoop.jpg",
+          "theme": "Boho Chic"
+        }
+      ],
+      
 
       "eventProfessionals": [
         {
