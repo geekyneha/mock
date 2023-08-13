@@ -406,19 +406,210 @@
       ],
       
 
-      "eventProfessionals": [
+      "videoGrapher": [
         {
-          "name": "Professional 1",
-          "specialty": "Floral Design"
-       
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWSH7VpfBcOPa3oyuUBzJczjL6V80AhKdng&usqp=CAU",
+            "name": "John Smith Videography",
+            "experience": "8 years",
+            "cost": "50,000 - 60,000",
+            "rating": "4.9"
         },
         {
-          "name": "Professional 2",
-          "specialty": "Event Planning"
-          
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQojUdvl26G80Fzybm8cLPNqtKOE_tPkbLZAw&usqp=CAU",
+            "name": "Emily Brown Cinematics",
+            "experience": "6 years",
+            "cost": "55,000 - 65,000",
+            "rating": "4.8"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNE8YZxnWgrV9GZYQts6MX8I5V7orcwdrcog&usqp=CAU",
+            "name": "Daniel Johnson Films",
+            "experience": "7 years",
+            "cost": "52,000 - 62,000",
+            "rating": "4.7"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDe_2gMgkDnyr2nd6GFtjCeWIsdekq6gpgZw&usqp=CAU",
+            "name": "Sophia White Visuals",
+            "experience": "5 years",
+            "cost": "48,000 - 58,000",
+            "rating": "4.6"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABSa0K2z7MkJghRQw3M9EQp7vfUWhkNib0f88PzNkDbu8AlUyX3IWJvqRRa7dTYYzAbQ&usqp=CAU",
+            "name": "Michael Anderson Productions",
+            "experience": "9 years",
+            "cost": "56,000 - 66,000",
+            "rating": "4.9"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrOdlq7yAUy-dcE1DFYQ7lyvPsDVKHn8gRQ&usqp=CAU",
+            "name": "Ava Garcia Media",
+            "experience": "4 years",
+            "cost": "46,000 - 56,000",
+            "rating": "4.5"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ji6Ve39kfAzCYhwMZXJ3P4E9uAruVOKSvQtWWl3tvosT17ftMymgpik3UoW-_uMQgZo&usqp=CAU",
+            "name": "William Turner Visuals",
+            "experience": "3 years",
+            "cost": "45,000 - 55,000",
+            "rating": "4.3"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqmrSUVk2J10WcgVS5Ujqtr6FHsaH86r5Rw&usqp=CAU",
+            "name": "Olivia Roberts Cinematography",
+            "experience": "5 years",
+            "cost": "48,000 - 58,000",
+            "rating": "4.7"
+        },
+        {
+            "imageUrl": "https://airtasker-seo-assets-prod.s3.amazonaws.com/en_AU/1629890716963_vidography-hero-min.jpg",
+            "name": "Matthew Harris Films",
+            "experience": "6 years",
+            "cost": "52,000 - 62,000",
+            "rating": "4.6"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4o71KmM4jjO_M-ibSwKGbAMcAEBzplfRsA&usqp=CAU",
+            "name": "Emma Jackson Videography",
+            "experience": "7 years",
+            "cost": "55,000 - 65,000",
+            "rating": "4.8"
+        },
+        {
+            "imageUrl": "https://hifocused.com/wp-content/uploads/2020/11/jordan-maui-wedding-videographer-1x1-alt-1-e1607448286509.jpg",
+            "name": "Jordan Maui Cinematics",
+            "experience": "8 years",
+            "cost": "50,000 - 60,000",
+            "rating": "4.9"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXD3Q0U-oMtgVFhFcopUdkeJd20Gu_pOaKfbz2KCTCnSF7ZcUe3mVSdizQcvDzEqjROA&usqp=CAU",
+            "name": "Lucas Clark Films",
+            "experience": "4 years",
+            "cost": "46,000 - 56,000",
+            "rating": "4.5"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaLJ-033e8o7n0Cq9SWKYbQ4KftzSu0vcgW_LXCkjxs13Shw8BM46Yu74lWwRxwEKqCkw&usqp=CAU",
+            "name": "Isabella Johnson Visuals",
+            "experience": "5 years",
+            "cost": "48,000 - 58,000",
+            "rating": "4.6"
+        },
+        {
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-jIRAt65GYBKhDsu9A6Z9xSPYC9dGN0XetQM5-D5-vCm4IALKSOM_hODPQAPJdxdshA&usqp=CAU",
+            "name": "Nathan Williams Cinematography",
+            "experience": "6 years",
+            "cost": "52,000 - 62,000",
+            "rating": "4.8"
+        }
+    ],
+    "makeupArtist": [
+        {
+            "id": "2f3db6d3-8c76-4f8e-9e14-3e99298aaf00",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SaYiRo7yhkL6ns4VyIfHGlpNZjiFr4E_bQ&usqp=CAU",
+            "name": "Ava Johnson",
+            "experience": "6 years",
+            "rating": "4.9"
+        },
+        {
+            "id": "92c3b786-7ab4-4d8b-87ed-47a3d1d2e4c2",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_7QzrHQhvZwDj_KqG-CUeG5zbSqHfsA5Rg&usqp=CAU",
+            "name": "Emily Smith",
+            "experience": "5 years",
+            "rating": "4.8"
+        },
+        {
+            "id": "c0d5a9e6-94f2-4d4f-92e2-8d43b24e2b35",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SX8C9xv_goCnF_FtHAI4hTsmyipxgbvhdg&usqp=CAU",
+            "name": "Sophia Davis",
+            "experience": "7 years",
+            "rating": "4.7"
+        },
+        {
+            "id": "4da8cc47-1c4c-401f-bb70-648ec0e7a9dd",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT40w5X2FuxD4RU_2lE2HqXRg48IgDK36J_bw&usqp=CAU",
+            "name": "Olivia Brown",
+            "experience": "4 years",
+            "rating": "4.6"
+        },
+        {
+            "id": "9f102f77-ff33-4529-88e0-7d0d26b387a6",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2F8yrDYviFQ08p8EG_qFbDpWHDH15wy-EQ&usqp=CAU",
+            "name": "Isabella Johnson",
+            "experience": "8 years",
+            "rating": "4.9"
+        },
+        {
+            "id": "b9239f7f-944a-4cf9-8f97-0addd1051b59",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPjhF97RrMwzZEC8IeZny-5ls8odLfn9OLg&usqp=CAU",
+            "name": "Sophie White",
+            "experience": "3 years",
+            "rating": "4.5"
+        },
+        {
+            "id": "fba40c0c-1980-43c1-a6d9-37085b6626de",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuu_rjeg4PB807PCizo6XFftmI5S_6FeC5cA&usqp=CAU",
+            "name": "Ella Miller",
+            "experience": "5 years",
+            "rating": "4.7"
+        },
+        {
+            "id": "5d9d1031-d100-4d0d-837d-5d76bc063f34",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgnXZf0pNXQlYLT1TnzDgfsHT6_gP2FmwLw&usqp=CAU",
+            "name": "Grace Clark",
+            "experience": "6 years",
+            "rating": "4.8"
+        },
+        {
+            "id": "0c646781-0450-47e5-997e-d9c3c77b0f52",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVeaeeTwdSXa679Z0LO93qD2ImVjGGL7rJkOZatxnTZjDJg1truOEyr35OLxFC3eOJmCE&usqp=CAU",
+            "name": "Lily Turner",
+            "experience": "4 years",
+            "rating": "4.6"
+        },
+        {
+            "id": "f6d9c019-067c-4bb2-b10c-79a6d9b256f4",
+            "imageUrl": "https://cosmocredits.com/wp-content/uploads/Depositphotos_202855366_L-1024x684.jpg",
+            "name": "Chloe Roberts",
+            "experience": "5 years",
+            "rating": "4.7"
+        },
+        {
+            "id": "6b2a9a61-6b92-4f1c-b5cd-79f28b50f30d",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTpcjp4D3gY2NORrthkY_Pv3X8aFzXUVcpR5zugIU3f7F7c4wcm_OZWn6TOvkz9zMJRs&usqp=CAU",
+            "name": "Zoe Harris",
+            "experience": "6 years",
+            "rating": "4.8"
+        },
+        {
+            "id": "c2600982-39db-45d5-9d50-5f25e762f983",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1caTvT40geShPoOet54DkaWmC515-sW2Meig4VeneEipm0VH8BlOxeEXySDpRa44ITs&usqp=CAU",
+            "name": "Mia Jackson",
+            "experience": "7 years",
+            "rating": "4.9"
+        },
+        {
+            "id": "2b8b4a27-04e3-4610-9d05-6206c562baff",
+            "imageUrl": "https://stylevanity.com/wp-content/uploads/2019/08/diy-bridal-makeup-wedding.jpg",
+            "name": "Emma Garcia",
+            "experience": "5 years",
+            "rating": "4.6"
+        },
+        {
+            "id": "83260517-6b75-4e72-82e3-12f66d58518b",
+            "imageUrl": "https://static.thehoneycombers.com/wp-content/uploads/sites/6/2022/11/makeup-artist-LEAD-IMAGE.jpeg",
+            "name": "Aria Davis",
+            "experience": "4 years",
+            "rating": "4.5"
         }
         
-      ]
+    ]
+    
+    
+    
     }
 
     
