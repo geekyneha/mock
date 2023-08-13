@@ -3,279 +3,335 @@
         {
             "imageUrl": "https://media.weddingz.in/images/bbda52972b1de50671f1b9de639610de/Anais-Events-6.jpg",
             "theme": "Elegant Floral",
-            "cost": "80,000"
+            "cost": "80,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20230417114332/jeffleatham-768x780.jpg",
             "theme": "Luxurious Glam",
-            "cost": "110,000"
+            "cost": "110,000",
+            "rating": "5.0"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20220913173853/Anais-Events-4-768x960.jpg",
             "theme": "Rustic Chic",
-            "cost": "60,000"
+            "cost": "60,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20230416190215/327019828_736454967823459_4624205954172581580_n-768x806.jpg",
             "theme": "Modern Minimalist",
-            "cost": "70,000"
+            "cost": "70,000",
+            "rating": "4.3"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/39eba43cac42d75c0774490371fbdbfd/Wedding-Reception-Stage-Decoration-Ideas3.jpg",
             "theme": "Vintage Romance",
-            "cost": "95,000"
+            "cost": "95,000",
+            "rating": "4.1"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20230417114156/weddingsbywardah-768x512.jpg",
             "theme": "Bohemian Dream",
-            "cost": "75,000"
+            "cost": "75,000",
+            "rating": "3.9"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20220913173847/Anais-events-2-768x960.jpg",
             "theme": "Whimsical Garden",
-            "cost": "85,000"
+            "cost": "85,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20230417114449/weddingsbywardah-2-768x960.jpg",
             "theme": "Beach Elegance",
-            "cost": "100,000"
+            "cost": "100,000",
+            "rating": "4.8"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20220915130425/instagram.fbho2-1.fna_.fbcdn_.net-54973628840310760-1-768x480.jpg",
             "theme": "Tropical Paradise",
-            "cost": "115,000"
+            "cost": "115,000",
+            "rating": "4.6"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20220913182932/Shawna-Yamamoto-Company-768x768.jpg",
             "theme": "Enchanted Forest",
-            "cost": "90,000"
+            "cost": "90,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/11b44d75ab84c9d57d7559de787838a9/Wedding-Reception-Stage-Decoration-Ideas10.jpg",
             "theme": "Classic Romance",
-            "cost": "105,000"
+            "cost": "105,000",
+            "rating": "4.7"
         },
         {
             "imageUrl": "https://media.weddingz.in/images/20220913173936/instagram.fbho2-1.fna_.fbcdn_.net-54960568469793820-768x631.jpg",
             "theme": "Rustic Barn",
-            "cost": "70,000"
+            "cost": "70,000",
+            "rating": "3.5"
         },
         {
             "imageUrl": "https://i.pinimg.com/originals/8a/15/c1/8a15c1b4f6b4623341996a48ddf40934.jpg",
             "theme": "Country Charm",
-            "cost": "55,000"
+            "cost": "55,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://www.beyoung.in/blog/wp-content/uploads/2023/01/f100e27841fb4af6aab49bece5335deb.jpg",
             "theme": "Chic Drapery",
-            "cost": "85,000"
+            "cost": "85,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://www.beyoung.in/blog/wp-content/uploads/2023/01/0518fb47402d95e5063cad20f0b95241-1024x683.jpg",
             "theme": "Sleek Monochrome",
-            "cost": "75,000"
+            "cost": "75,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://www.beyoung.in/blog/wp-content/uploads/2023/01/Draped-Simple-stage-decoration.jpg",
             "theme": "Graceful Drapes",
-            "cost": "60,000"
+            "cost": "60,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://www.beyoung.in/blog/wp-content/uploads/2023/01/Simple-stage-decorations-with-tea-light-candles.jpg",
             "theme": "Candlelit Serenity",
-            "cost": "65,000"
+            "cost": "65,000",
+            "rating": "4.1"
         },
         {
             "imageUrl": "https://i.pinimg.com/236x/9d/1f/22/9d1f2202c9835ba04150ae7cdf5b4cf8.jpg",
             "theme": "Rustic Elegance",
-            "cost": "80,000"
+            "cost": "80,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://i.pinimg.com/236x/65/8a/24/658a24a3ea4928185eb6dc43534b874a.jpg",
             "theme": "Vintage Glamour",
-            "cost": "110,000"
+            "cost": "110,000",
+            "rating": "4.8"
         },
         {
             "imageUrl": "https://i.pinimg.com/236x/6d/32/f0/6d32f0280068e704787098b940c031a3.jpg",
             "theme": "Charming Garden",
-            "cost": "75,000"
+            "cost": "75,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://i.pinimg.com/236x/a8/5d/ad/a85dad8fa52ce9b24a44ed2a4c4f64ac.jpg",
             "theme": "Fairytale Whimsy",
-            "cost": "100,000"
+            "cost": "100,000",
+            "rating": "4.6"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/25/0f/34/250f346b9288a3917c8e4e50db76c67a.jpg",
             "theme": "Rustic Vintage",
-            "cost": "70,000"
+            "cost": "70,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/39/03/25/39032503cf0d6e48b7af8d46b5db5c26.jpg",
             "theme": "Chic Elegance",
-            "cost": "95,000"
+            "cost": "95,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/5c/f0/7b/5cf07bed36482ee76dab367fd8cc8607.jpg",
             "theme": "Royal Opulence",
-            "cost": "120,000"
+            "cost": "120,000",
+            "rating": "4.9"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/61/6f/14/616f14377b02a77866b82f297152196e.jpg",
             "theme": "Regal Charm",
-            "cost": "105,000"
+            "cost": "105,000",
+            "rating": "4.7"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/56/04/35/56043595c7b10dea8abd8f15a0129c0b.jpg",
             "theme": "Minimalist Elegance",
-            "cost": "75,000"
+            "cost": "75,000",
+            "rating": "4.3"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/62/d4/e8/62d4e886111c7cf9cdf0ac45f2daaaab.jpg",
             "theme": "Garden Delight",
-            "cost": "65,000"
+            "cost": "65,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://i.pinimg.com/564x/df/f2/fb/dff2fb7b4dc5f4c563c35f23340b2ee6.jpg",
             "theme": "Modern Glam",
-            "cost": "95,000"
+            "cost": "95,000",
+            "rating": "4.6"
         },
         {
             "imageUrl": "https://i.pinimg.com/236x/ef/30/81/ef3081c57dd278cc14f79c046b7f8a67.jpg",
             "theme": "Chic Simplicity",
-            "cost": "70,000"
+            "cost": "70,000",
+            "rating": "3.8"
         }
     ],
+    
     
 
 
 
-      "haldiDecoration": [
+    "haldiDecoration": [
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8odamm-qbEn2AVc690pErMW3PQu9qOQPOWNcKHF5UM9fdLoMy2shkSPAsRDlRBkYPTPM&usqp=CAU",
             "theme": "Elegant Floral",
-            "cost": "45,000"
+            "cost": "45,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJaGmIRTEIlbPJCwJ1EP1x6C5e5usgrJOJ7l8YILurho1UQB1l9NMbKzU1ufMuhz1u9c&usqp=CAU",
             "theme": "Luxurious Glam",
-            "cost": "55,000"
+            "cost": "55,000",
+            "rating": "4.8"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSju9SqiAvZo_QXzZqivkTCmqnLxq1Ugv4yfg&usqp=CAU",
             "theme": "Opulent Charm",
-            "cost": "50,000"
+            "cost": "50,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2nS08uQOFqm7nN7TKkClg9J-1llsu4gtoNQ1hUIEqH5VYbV_Dux4lbu-9ss7YhJDMQcQ&usqp=CAU",
             "theme": "Regal Splendor",
-            "cost": "58,000"
+            "cost": "58,000",
+            "rating": "4.3"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoveMtL_CFfEe8G_b1HxNi49rzMKGwrI_DD-PVgy5JeiZUW1204J-pfkjl0s_I6uOIG0o&usqp=CAU",
             "theme": "Glamorous Affair",
-            "cost": "59,000"
+            "cost": "59,000",
+            "rating": "4.7"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-J_4usn5pdrvS79ZOutQHMLQZ299zPDOoSFPI7QGIPIdwE_thA_MHn36baFX1UXPpNU&usqp=CAU",
             "theme": "Radiant Elegance",
-            "cost": "48,000"
+            "cost": "48,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-3-768x635.jpg",
             "theme": "Golden Blossoms",
-            "cost": "35,000"
+            "cost": "35,000",
+            "rating": "4.1"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-9-1-768x960.jpg",
             "theme": "Opulent Sunshine",
-            "cost": "42,000"
+            "cost": "42,000",
+            "rating": "4.4"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-9-768x960.jpg",
             "theme": "Sun-Kissed Glamour",
-            "cost": "38,000"
+            "cost": "38,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-14-768x512.jpg",
             "theme": "Chic Gold Accents",
-            "cost": "55,000"
+            "cost": "55,000",
+            "rating": "4.6"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-25-768x768.jpg",
             "theme": "Golden Charm",
-            "cost": "47,000"
+            "cost": "47,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-26-1-768x864.jpg",
             "theme": "Regal Gold Tones",
-            "cost": "53,000"
+            "cost": "53,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-46-768x699.jpg",
             "theme": "Elegant Gold Fusion",
-            "cost": "49,000"
+            "cost": "49,000",
+            "rating": "4.3"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-53.jpeg",
             "theme": "Glamorous Nature",
-            "cost": "56,000"
+            "cost": "56,000",
+            "rating": "4.7"
         },
         {
             "imageUrl": "https://wedbook.in/wp-content/uploads/2022/02/Haldi-Decor-768x661.jpg",
             "theme": "Golden Dreams",
-            "cost": "40,000"
+            "cost": "40,000",
+            "rating": "4.1"
         }
     ],
+    
     
       
     "engagementDecoration": [
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSydXLYjACo7GrOW1e1p6PuhAOY9OcbSTsfH7eBZ1G-S8Y_9plI61ksyI4OvV9gdgAaWXE&usqp=CAU",
             "theme": "Romantic Blush",
-            "cost": "45,000"
+            "cost": "45,000",
+            "rating": "4.2"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZqhVwoJ4LoxchSsf6WLUj6Z3t_zjzqiXp6WYW76hhqKZu9SqUmFe9yhMabEKusYbS0&usqp=CAU",
             "theme": "Glamorous Gold",
-            "cost": "60,000"
+            "cost": "60,000",
+            "rating": "4.8"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzAR4CFv7Br1wcoviuvtRuul5_XSHN3tFTw&usqp=CAU",
             "theme": "Elegant Sparkle",
-            "cost": "55,000"
+            "cost": "55,000",
+            "rating": "4.5"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdJ_qR0Wl0COt1Mp4azJRlSxOHF-WHzZRIzA&usqp=CAU",
             "theme": "Chic Elegance",
-            "cost": "40,000"
+            "cost": "40,000",
+            "rating": "4.0"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREPkq3pszJFaBckn1_ZpCKNcbO3H7OPlWFup0TAtBP8ht52184uNb35DYfcTH_N3bEttg&usqp=CAU",
             "theme": "Opulent Glam",
-            "cost": "70,000"
+            "cost": "70,000",
+            "rating": "4.7"
         },
         {
             "imageUrl": "https://i0.wp.com/bridalmusings.com/wp-content/uploads/2022/11/untitled-5.png?resize=%2C&ssl=1",
             "theme": "Modern Elegance",
-            "cost": "80,000"
+            "cost": "80,000",
+            "rating": "4.6"
         },
         {
             "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEfr0HTPyuMD476XB2142tCMX7oTL7JSYIg&usqp=CAU",
             "theme": "Vintage Glamour",
-            "cost": "50,000"
+            "cost": "50,000",
+            "rating": "4.3"
         },
         {
             "imageUrl": "https://cfw.rabbitloader.xyz/eyJjIjp0cnVlLCJoIjoibXltYW5kYXAuaW4iLCJ2IjozNTA3MDAwMTg5LCJpIjoiMjJiNmMzY2MtNDE5NC00ZDJlLTkwMzYtYzMwMjk0NGFmMDAwIn0/wp-content/uploads/2022/08/Boho-props-_-Photoop.jpg",
             "theme": "Boho Chic",
-            "cost": "35,000"
+            "cost": "35,000",
+            "rating": "4.5"
         }
     ],
+    
     
       
       "invitation": [
         {
           "imageUrl": "https://cdn.cp.adobe.io/content/2/rendition/2559b867-5f9b-4530-84b0-06b0a6b6a401/artwork/17806424-7e36-450e-8b92-a820952f7009/version/0/format/jpg/dimension/width/size/400"
+
         },
         {
           "imageUrl": "https://cdn.cp.adobe.io/content/2/rendition/d06eb0eb-2a9c-410f-acf5-0a4d50dedfb1/artwork/39d4868f-fbe8-47ca-86ca-8fe234acf075/version/0/format/jpg/dimension/width/size/400"
