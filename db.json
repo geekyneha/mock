@@ -746,7 +746,8 @@
     ],
 
 
-    
+
+     
         "destination": [
           {
             "state": "Gujarat",
@@ -758,6 +759,48 @@
                 "rating": "4.7",
                 "cost_per_night": "2000 - 3000",
                 "amenities": ["Swimming Pool", "Restaurant", "Spa"]
+              },
+              {
+                 "name": "Grand Plaza Ahmedabad",
+                 "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/175036061_20221124200307.jpg",
+                 "rating": "4.5",
+                 "cost_per_night": "2500 - 3500",
+                 "amenities": ["Fitness Center", "Rooftop Bar", "Business Center"]
+              },
+              {
+                 "name": "Royal Regency",
+                 "imageUrl": "https://q-xx.bstatic.com/xdata/images/hotel/max1200/384302407.jpg?k=77b434b18ee395b5be433a405236bce4b3f17fe3eaede2bda26cc3b8e06e6b88&o=",
+                 "rating": "4.2",
+                 "cost_per_night": "1800 - 2500",
+                 "amenities": ["Conference Rooms", "Wi-Fi", "Complimentary Breakfast"]
+              },
+              {
+                 "name": "Palm Oasis Boutique Hotel",
+                 "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/160243636_20221124200314.jpg",
+                 "rating": "4.8",
+                 "cost_per_night": "3000 - 4000",
+                 "amenities": ["Garden", "Jacuzzi", "Airport Shuttle"]
+              },
+              {
+                 "name": "Elegant Residency",
+                 "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/113610072_20221124200309.jpg",
+                 "rating": "4.6",
+                 "cost_per_night": "2200 - 3200",
+                 "amenities": ["Gym", "Lounge", "24/7 Room Service"]
+              },
+              {
+                 "name": "Sunrise Suites",
+                 "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/92293666_20221124200310.jpg",
+                 "rating": "4.4",
+                 "cost_per_night": "2800 - 3800",
+                 "amenities": ["Terrace", "Coffee Shop", "Laundry Service"]
+              },
+              {
+                 "name": "Heritage Mansion",
+                 "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/222762284_20221124200311.jpg",
+                 "rating": "4.9",
+                 "cost_per_night": "3500 - 4500",
+                 "amenities": ["Cultural Shows", "Library", "Valet Parking"]
               }
             ]
           },
