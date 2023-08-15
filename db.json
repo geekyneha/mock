@@ -743,7 +743,79 @@
             "cost": "24,000 - 34,000"
         }
        
-    ]
+    ],
+
+
+    
+        "destination": [
+          {
+            "state": "Gujarat",
+            "city": "Ahmedabad",
+            "hotels": [
+              {
+                "name": "Luxury Hotel Ahmedabad",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZyIZM4HWe-GkpeTUcuAZmVuHuuIWQJJUQg&usqp=CAU",
+                "rating": "4.7",
+                "cost_per_night": "2000 - 3000",
+                "amenities": ["Swimming Pool", "Restaurant", "Spa"]
+              }
+            ]
+          },
+          {
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "hotels": [
+              {
+                "name": "Downtown Hotel Mumbai",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEY8rAvpPcORAgLvWDXGwQmbfsyu5RfyuxA&usqp=CAU",
+                "rating": "4.6",
+                "cost_per_night": "2500 - 3500",
+                "amenities": ["City Views", "Gym", "Bar"]
+              }
+            ]
+          },
+          {
+            "state": "Delhi",
+            "city": "New Delhi",
+            "hotels": [
+              {
+                "name": "Capital Palace Hotel",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyXP1m1VkBBNEDhQbs6-12iz4X-OPra2UWA&usqp=CAU",
+                "rating": "4.5",
+                "cost_per_night": "1800 - 2800",
+                "amenities": ["Spa", "Restaurant", "Business Center"]
+              }
+            ]
+          },
+          {
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "hotels": [
+              {
+                "name": "Tech Hub Inn Bangalore",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOw3UMAeeSQdPZGu0GVzInCmGF61HIJwL_sA&usqp=CAU",
+                "rating": "4.8",
+                "cost_per_night": "2200 - 3200",
+                "amenities": ["WiFi", "Conference Rooms", "Fitness Center"]
+              }
+            ]
+          },
+          {
+            "state": "Rajasthan",
+            "city": "Jaipur",
+            "hotels": [
+              {
+                "name": "Royal Heritage Jaipur",
+                "imageUrl": "https://im.indiatimes.in/photogallery/2021/Sep/2-tajhotels_61386d6b56f99.jpg?w=600&h=450&cc=1",
+                "rating": "4.9",
+                "cost_per_night": "1800 - 2800",
+                "amenities": ["Swimming Pool", "Restaurant", "Cultural Activities"]
+              }
+            ]
+          }
+        ]
+      
+      
     
     
     
