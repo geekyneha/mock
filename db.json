@@ -927,27 +927,38 @@
                 ]
              }
           },
+    
+        
+    
           {
-             "category": "Accompaniments",
-             "dishes": ["Naan", "Assorted Breads", "Jeera Rice"]
-          },
-          {
-             "category": "Desserts",
-             "dishes": [
-                "Gulab Jamun",
-                "Rasgulla",
-                "Kheer",
-                "Fruit Salad",
-                "Ice Cream Vanilla",
-                "Ice Cream Strawberry",
+            "category": "Desserts",
+            "dishes": {
+               "vegetarian": [
+                  "Gulab Jamun",
+                  "Rasgulla",
+                  "Kheer",
+                  "Fruit Salad",
+                  "Rice Kheer",
+                  "Carrot Halwa",
+                  "Moong Dal Halwa",
+                  "Jalebi",
+                  "Rabri",
+                  "Peda",
+                  "Ice Cream Strawberry",
                 "Ice Cream Pista",
                 "Ice Cream Chocolate",
                 "Ice Cream Butter Scotch"
-             ]
-          },
-          {
-             "category": "Extras",
-             "dishes": [
+               ],
+               "non_vegetarian": [
+                  "Black-forest pastry",
+                  "rasmalai pastry"
+               ]
+            }
+         },
+         {
+            "category": "Extras",
+            "dishes": {
+               "vegetarian": [
                 "Curd",
                 "Assorted Pickles",
                 "Fruit Custard",
@@ -974,8 +985,14 @@
                 "Varhari Mirchi Thecha",
                 "Chatni Sweet",
                 "Chatni Pudina"
-             ]
-          }
+               ],
+               "non_vegetarian": [
+                  "Chicken Pickle",
+                  "Mutton Pickle",
+                  "Fish Pickle"
+               ]
+            }
+        }
        ]
     
  
