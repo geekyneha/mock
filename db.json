@@ -841,107 +841,143 @@
       ]
     }
   ],
-
-  "vegetarian": [
-    {
-      "category": "Starters",
-      "dishes": [
-        "Special Veg",
-        "Paneer Tikka Dry",
-        "Veg Spring Rolls",
-        "Hara Bhara Kabab",
-        "Veg Manchurian Dry",
-        "Veg Bullets"
-      ]
-    },
-    {
-      "category": "Main Course",
-      "dishes": [
-        "Paneer Makhani",
-        "Paneer Kadhai",
-        "Paneer Palak",
-        "Paneer Mutter",
-        "Paneer Butter Masala",
-        "Paneer Laccha",
-        "Paneer Tikka Masala",
-        "Palak Kofta",
-        "Rajmah Masala",
-        "Dum Aloo Kashmiri",
-        "Chana Paneer",
-        "Mutter Methi Malai",
-        "Malai Methi Kaju",
-        "Navaratan Korma",
-        "Kashmiri Kofta",
-        "Veg Egg Curry",
-        "Baby Corn Mutter",
-        "Paneer Passanda",
-        "Kaju Curry",
-        "Kaju Mutter Paneer",
-        "Khas Khas Bhaji",
-        "Mushroom Mutter",
-        "Paneer Korma",
-        "Paneer Bhurji",
-        "Paneer Kolhapuri",
-        "Paneer Saoji",
-        "Shahi Paneer",
-        "Paneer Kofta",
-        "Exotic Mix Veg",
-        "Kadhai Veg",
-        "Malai Kofta",
-        "Patodi Rassa",
-        "Veg Hyderabadi",
-        "Veg Kolhapuri",
-        "Veg Jaipuri"
-      ]
-    },
-    {
-      "category": "Accompaniments",
-      "dishes": ["Naan", "Assorted Breads", "Jeera Rice"]
-    },
-    {
-      "category": "Desserts",
-      "dishes": [
-        "Gulab Jamun",
-        "Rasgulla",
-        "Kheer",
-        "Fruit Salad",
-        "Ice Cream Vanilla",
-        "Ice Cream Strawberry",
-        "Ice Cream Pista",
-        "Ice Cream Chocolate",
-        "Ice Cream Butter Scotch"
-      ]
-    },
-    {
-      "category": "Extras",
-      "dishes": [
-        "Curd",
-        "Assorted Pickles",
-        "Fruit Custard",
-        "Ice Gola",
-        "Karhi Pakora",
-        "Karhi (Simple)",
-        "Punjabi Karhi",
-        "Dahi Vada",
-        "Dahi Bhalla",
-        "Dahi Karanja",
-        "Plain Dahi",
-        "Sweet Dahi",
-        "Bundi Raita",
-        "Mix Veg Raita",
-        "Pineapple Raita",
-        "Butter Milk",
-        "Mix Fruit Raita",
-        "Mattha",
-        "Mixed Pickle",
-        "Mango Pickle",
-        "Lemon Pickle",
-        "Khatta Meetha Lemon",
-        "Green Chillies Pickle",
-        "Varhari Mirchi Thecha",
-        "Chatni Sweet",
-        "Chatni Pudina"
-      ]
-    }
-  ]
+  "catering": [
+          {
+             "category": "Starters",
+             "dishes": {
+                "vegetarian": [
+                   "Special Veg",
+                   "Paneer Tikka Dry",
+                   "Veg Spring Rolls",
+                   "Hara Bhara Kabab",
+                   "Veg Manchurian Dry",
+                   "Veg Bullets"
+                ],
+                "non_vegetarian": [
+                   "Chicken Tikka",
+                   "Fish Amritsari",
+                   "Mutton Seekh Kebab",
+                   "Chilli Chicken",
+                   "Chicken Spring Rolls"
+                ]
+             }
+          },
+          {
+             "category": "Main Course",
+             "dishes": {
+                "vegetarian": [
+                   "Paneer Makhani",
+                   "Paneer Kadhai",
+                   "Paneer Palak",
+                   "Paneer Mutter",
+                   "Paneer Butter Masala",
+                   "Paneer Laccha",
+                   "Paneer Tikka Masala",
+                   "Palak Kofta",
+                   "Rajmah Masala",
+                   "Dum Aloo Kashmiri",
+                   "Chana Paneer",
+                   "Mutter Methi Malai",
+                   "Malai Methi Kaju",
+                   "Navaratan Korma",
+                   "Kashmiri Kofta",
+                   "Veg Egg Curry",
+                   "Baby Corn Mutter",
+                   "Paneer Passanda",
+                   "Kaju Curry",
+                   "Kaju Mutter Paneer",
+                   "Khas Khas Bhaji",
+                   "Mushroom Mutter",
+                   "Paneer Korma",
+                   "Paneer Bhurji",
+                   "Paneer Kolhapuri",
+                   "Paneer Saoji",
+                   "Shahi Paneer",
+                   "Paneer Kofta",
+                   "Exotic Mix Veg",
+                   "Kadhai Veg",
+                   "Malai Kofta",
+                   "Patodi Rassa",
+                   "Veg Hyderabadi",
+                   "Veg Kolhapuri",
+                   "Veg Jaipuri"
+                ],
+                "non_vegetarian": [
+                   "Chicken Curry",
+                   "Chicken Kadhai",
+                   "Chicken Tikka Masala",
+                   "Chicken Korma",
+                   "Butter Chicken",
+                   "Chicken Mughlai",
+                   "Chicken Do Pyaza",
+                   "Chicken Rogan Josh",
+                   "Chicken Chettinad",
+                   "Chicken Patiala",
+                   "Chicken Bharta",
+                   "Chicken Bhuna",
+                   "Mutton Curry",
+                   "Mutton Rogan Josh",
+                   "Mutton Do Pyaza",
+                   "Mutton Korma",
+                   "Fish Curry",
+                   "Fish Masala",
+                   "Fish Fry",
+                   "Prawn Curry",
+                   "Prawn Masala"
+                ]
+             }
+          },
+          {
+             "category": "Accompaniments",
+             "dishes": ["Naan", "Assorted Breads", "Jeera Rice"]
+          },
+          {
+             "category": "Desserts",
+             "dishes": [
+                "Gulab Jamun",
+                "Rasgulla",
+                "Kheer",
+                "Fruit Salad",
+                "Ice Cream Vanilla",
+                "Ice Cream Strawberry",
+                "Ice Cream Pista",
+                "Ice Cream Chocolate",
+                "Ice Cream Butter Scotch"
+             ]
+          },
+          {
+             "category": "Extras",
+             "dishes": [
+                "Curd",
+                "Assorted Pickles",
+                "Fruit Custard",
+                "Ice Gola",
+                "Karhi Pakora",
+                "Karhi (Simple)",
+                "Punjabi Karhi",
+                "Dahi Vada",
+                "Dahi Bhalla",
+                "Dahi Karanja",
+                "Plain Dahi",
+                "Sweet Dahi",
+                "Bundi Raita",
+                "Mix Veg Raita",
+                "Pineapple Raita",
+                "Butter Milk",
+                "Mix Fruit Raita",
+                "Mattha",
+                "Mixed Pickle",
+                "Mango Pickle",
+                "Lemon Pickle",
+                "Khatta Meetha Lemon",
+                "Green Chillies Pickle",
+                "Varhari Mirchi Thecha",
+                "Chatni Sweet",
+                "Chatni Pudina"
+             ]
+          }
+       ]
+    
+ 
+ 
 }
