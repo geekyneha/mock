@@ -786,6 +786,68 @@
           "cost_per_night": "3500 - 4500",
           "amenities": ["Cultural Shows", "Library", "Valet Parking"]
         }
+      ],
+      "venues": [
+        {
+          "venue_name": "Elegant Wedding Gardens",
+          "capacity": "500 guests",
+          "image_url": "https://www.happywedding.app/blog/wp-content/uploads/2021/08/Choose-The-Best-Wedding-Venues.jpg",
+          "price_range": "₹3,00,000 - ₹5,00,000"
+        },
+        {
+          "venue_name": "Grand Banquet Hall",
+          "capacity": "300 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpS5ABKl19MpbMDLYNiKNxy0RXpkyCuHUVug&usqp=CAU",
+          "price_range": "₹2,50,000 - ₹4,50,000"
+        },
+        {
+          "venue_name": "Rooftop Oasis",
+          "capacity": "200 guests",
+          "image_url": "https://cdn0.weddingwire.in/article/7853/3_2/960/jpg/103587-weddingnama3.jpeg",
+          "price_range": "₹1,50,000 - ₹3,50,000"
+        },
+        {
+          "venue_name": "Garden Paradise",
+          "capacity": "400 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbY1VKFde2Agsj5YmJEywmAe2hhiCPdEgToqXcWNRy00SR7lPLxYPyDhmttKhC_jGWlI0&usqp=CAU",
+          "price_range": "₹2,00,000 - ₹4,00,000"
+        },
+        {
+          "venue_name": "Palatial Wedding Villa",
+          "capacity": "600 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYWIFE9wLUUF8ruKHK0s5lPvKHyk-iCTu81w&usqp=CAU",
+          "price_range": "₹3,50,000 - ₹6,00,000"
+        },
+        {
+          "venue_name": "Lakeside Pavilion",
+          "capacity": "250 guests",
+          "image_url": "https://www.happywedding.app/blog/wp-content/uploads/2021/08/Choose-The-Best-Wedding-Venues.jpg",
+          "price_range": "₹1,80,000 - ₹3,50,000"
+        },
+        {
+          "venue_name": "Regal Ballroom",
+          "capacity": "350 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7JOKWw2Ph3-kKwhj98WgeYthGLId4YX2s2g&usqp=CAU",
+          "price_range": "₹2,00,000 - ₹4,00,000"
+        },
+        {
+          "venue_name": "Heritage Courtyard",
+          "capacity": "300 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrq911S9qTiJGTLWC9sgiv6bVy4x8V-VGYpw1a5uQLrqexTKfzg5vAYMLvQOw1Iga-KbA&usqp=CAU",
+          "price_range": "₹2,20,000 - ₹4,20,000"
+        },
+        {
+          "venue_name": "Charming Terrace",
+          "capacity": "150 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjh9HFFdLt0cpWqiJXELauJRnWb2RRrJemQ&usqp=CAU",
+          "price_range": "₹1,20,000 - ₹2,80,000"
+        },
+        {
+          "venue_name": "Modern Loft",
+          "capacity": "200 guests",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUM6WpuOiZbFwQWvxTGoMdxiVE1cWaFTrjyQ&usqp=CAU",
+          "price_range": "₹1,80,000 - ₹3,20,000"
+        }
       ]
     },
     {
@@ -824,8 +886,71 @@
           "rating": "4.8",
           "cost_per_night": "2200 - 3200",
           "amenities": ["WiFi", "Conference Rooms", "Fitness Center"]
-        }
-      ]
+        }, {
+            "name": "Luxury Beach Resort",
+            "imageUrl": "https://example.com/luxurybeachresort.jpg",
+            "rating": "4.8",
+            "cost_per_night": "3500 - 4500",
+            "amenities": ["Private Beach", "Spa", "Fine Dining"]
+          },
+          {
+            "name": "Skyline Suites",
+            "imageUrl": "https://example.com/skylinesuites.jpg",
+            "rating": "4.5",
+            "cost_per_night": "2800 - 3800",
+            "amenities": ["Rooftop Pool", "Fitness Center", "City Views"]
+          },
+          {
+            "name": "Heritage Boutique Hotel",
+            "imageUrl": "https://example.com/heritageboutiquehotel.jpg",
+            "rating": "4.7",
+            "cost_per_night": "3000 - 4000",
+            "amenities": ["Historic Charm", "Courtyard", "Library"]
+          },
+          {
+            "name": "Chic Urban Retreat",
+            "imageUrl": "https://example.com/chicurbanretreat.jpg",
+            "rating": "4.9",
+            "cost_per_night": "3200 - 4200",
+            "amenities": ["Modern Design", "Lounge", "Art Gallery"]
+          },
+          {
+            "name": "Harbor View Hotel",
+            "imageUrl": "https://example.com/harborviewhotel.jpg",
+            "rating": "4.4",
+            "cost_per_night": "2200 - 3200",
+            "amenities": ["Waterfront Location", "Restaurant", "Event Spaces"]
+          },
+          {
+            "name": "Boutique Garden Inn",
+            "imageUrl": "https://example.com/boutiquegardeninn.jpg",
+            "rating": "4.8",
+            "cost_per_night": "2600 - 3600",
+            "amenities": ["Lush Garden", "Terrace", "Café"]
+          },
+          {
+            "name": "Modern Business Hotel",
+            "imageUrl": "https://example.com/modernbusinesshotel.jpg",
+            "rating": "4.5",
+            "cost_per_night": "2400 - 3400",
+            "amenities": ["Business Center", "Fitness Facilities", "Conference Rooms"]
+          },
+          {
+            "name": "Seaside Retreat",
+            "imageUrl": "https://example.com/seasideretreat.jpg",
+            "rating": "4.7",
+            "cost_per_night": "2800 - 3800",
+            "amenities": ["Beach Access", "Pool", "Spa"]
+          },
+          {
+            "name": "Charming Plaza Hotel",
+            "imageUrl": "https://example.com/charmingplazahotel.jpg",
+            "rating": "4.6",
+            "cost_per_night": "2600 - 3600",
+            "amenities": ["Central Location", "Restaurant", "Fitness Center"]
+          }
+        ]
+      
     },
     {
       "state": "Rajasthan",
@@ -1230,3 +1355,6 @@
     }
   ]
 }
+
+
+  
