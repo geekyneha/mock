@@ -991,7 +991,7 @@
       "id": 1,
       "company_name": "ElegantRides",
       "vehicle_type": "Luxury Car",
-      "image_url": "https://example.com/elegantrides.jpg",
+      "image_url": "https://static.toiimg.com/photo/msid-79801721/79801721.jpg",
       "email": "info@elegantrides.com",
       "pricing": "₹5000"
     },
@@ -999,7 +999,7 @@
       "id": 2,
       "company_name": "CharmingCarriages",
       "vehicle_type": "Horse-Drawn Carriage",
-      "image_url": "https://example.com/charmingcarriages.jpg",
+      "image_url": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2017/12/14161338/141217_vinatagecar.jpg",
       "email": "info@charmingcarriages.com",
       "pricing": "₹8000"
     },
@@ -1007,7 +1007,7 @@
       "id": 3,
       "company_name": "LoveBugVehicles",
       "vehicle_type": "Vintage Volkswagen",
-      "image_url": "https://example.com/lovebugvehicles.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbF-BHRaNJX45D3cGQuGhg_M3VEx_0Rrp3xA&usqp=CAU",
       "email": "info@lovebugvehicles.com",
       "pricing": "₹4500"
     },
@@ -1015,7 +1015,7 @@
       "id": 4,
       "company_name": "GlamourLimos",
       "vehicle_type": "Stretch Limousine",
-      "image_url": "https://example.com/glamourlimos.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQ15dFtxUXDk0dh5SiS0tiOJfapXQRd8usQ&usqp=CAU",
       "email": "info@glamourlimos.com",
       "pricing": "₹7000"
     },
@@ -1023,7 +1023,7 @@
       "id": 5,
       "company_name": "RoyalCarriages",
       "vehicle_type": "Cinderella Carriage",
-      "image_url": "https://example.com/royalcarriages.jpg",
+      "image_url": "https://i.pinimg.com/736x/f0/07/5b/f0075b7d038a4516a6b8016fb1ec325f--wedding-car-decorations-wedding-cars.jpg",
       "email": "info@royalcarriages.com",
       "pricing": "₹12000"
     },
@@ -1031,7 +1031,7 @@
       "id": 6,
       "company_name": "VintageCharm",
       "vehicle_type": "Classic Rolls-Royce",
-      "image_url": "https://example.com/vintagecharm.jpg",
+      "image_url": "https://i0.wp.com/decorsutrablog.com/wp-content/uploads/2020/08/Decorsutra_Wedding-Car-Decor_10-1.jpg?resize=780%2C854&ssl=1",
       "email": "info@vintagecharm.com",
       "pricing": "₹6000"
     },
@@ -1039,7 +1039,7 @@
       "id": 7,
       "company_name": "GoldenElephantCarriages",
       "vehicle_type": "Decorated Elephant",
-      "image_url": "https://example.com/goldenelephantcarriages.jpg",
+      "image_url": "https://shaadiwish.com/blog/wp-content/uploads/2020/03/just-married-car-decor.jpg",
       "email": "info@goldenelephantcarriages.com",
       "pricing": "₹15000"
     },
@@ -1047,7 +1047,7 @@
       "id": 8,
       "company_name": "GracefulVintageCars",
       "vehicle_type": "Vintage Convertible",
-      "image_url": "https://example.com/gracefulvintagecars.jpg",
+      "image_url": "https://i0.wp.com/decorsutrablog.com/wp-content/uploads/2020/08/Decorsutra_Wedding-Car-Decor_7.jpg?fit=1064%2C986&ssl=1",
       "email": "info@gracefulvintagecars.com",
       "pricing": "₹5500"
     },
@@ -1055,7 +1055,7 @@
       "id": 9,
       "company_name": "DreamyHorseRides",
       "vehicle_type": "Fairy Tale Horse Carriage",
-      "image_url": "https://example.com/dreamyhorserides.jpg",
+      "image_url": "https://images.squarespace-cdn.com/content/v1/5d2e078fc4b8c600013eeeec/1563297984595-TADZ9FHC34CNNXZ9L1Q2/Fit-for-royalty-wedding-shoot-bride-and-groom-standing-by-carriage.jpg?format=2500w",
       "email": "info@dreamyhorserides.com",
       "pricing": "₹9000"
     },
@@ -1063,7 +1063,7 @@
       "id": 10,
       "company_name": "ModernChicTransport",
       "vehicle_type": "Sleek Modern Car",
-      "image_url": "https://example.com/modernchictransport.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U2iLwBiKLapSsyiU-740ztpNKvbkjUv0KQ&usqp=CAU",
       "email": "info@modernchictransport.com",
       "pricing": "₹4500"
     },
@@ -1080,7 +1080,7 @@
       "id": 12,
       "company_name": "VividVintageVehicles",
       "vehicle_type": "Vibrant Vintage Car",
-      "image_url": "https://example.com/vividvintagevehicles.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8OTVBbaEWKSpkRrxJlZvF6IPa7tMp0cEH3LPafm7J6UIsMNaMiwr_8Z7mJ6RAcIGSMM&usqp=CAU",
       "email": "info@vividvintagevehicles.com",
       "pricing": "₹4000"
     },
@@ -1112,7 +1112,7 @@
       "id": 16,
       "company_name": "CruiseNJoy",
       "vehicle_type": "Luxury Cruise Car",
-      "image_url": "https://example.com/cruisenjoy.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFo_BgTj-OHyZlWR5hPE6RPTn9XK8ugkgDrRInQKaC_ge8j1UPpOKDRJ9ja3CboLkX0SU&usqp=CAU",
       "email": "info@cruisenjoy.com",
       "pricing": "₹5500"
     },
@@ -1120,7 +1120,7 @@
       "id": 17,
       "company_name": "PearlPrestige",
       "vehicle_type": "Prestigious Sedan",
-      "image_url": "https://example.com/pearlprestige.jpg",
+      "image_url": "https://www.kingscharterbususa.com/wp-content/uploads/2023/06/school-bus-wedding-party.-min.jpg",
       "email": "info@pearlprestige.com",
       "pricing": "₹3000"
     },
@@ -1128,7 +1128,7 @@
       "id": 18,
       "company_name": "WhimsicalWheels",
       "vehicle_type": "Whimsical Car",
-      "image_url": "https://example.com/whimsicalwheels.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXjv30beSua00D9rw0x2bbcRvUpkGAWCLarCSozR7WLVUsKq54JoBhy2tpxdwgdxuUmlQ&usqp=CAU",
       "email": "info@whimsicalwheels.com",
       "pricing": "₹5000"
     },
@@ -1136,7 +1136,7 @@
       "id": 19,
       "company_name": "GardenGlide",
       "vehicle_type": "Garden-themed Cart",
-      "image_url": "https://example.com/gardenglide.jpg",
+      "image_url": "https://media-api.xogrp.com/images/4ac1169d-f4b5-4bdd-9534-1e426bd6ecf1~rs_310.210",
       "email": "info@gardenglide.com",
       "pricing": "₹2500"
     },
@@ -1144,7 +1144,7 @@
       "id": 20,
       "company_name": "RoyalRover",
       "vehicle_type": "Royal Vintage Carriage",
-      "image_url": "https://example.com/royalrover.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDe3BgQiF9nJZqKAKakSALnwEk-Iq5PLHuwzHFwaqrgCcIlhwnQVKtKyh_I0OEo-rc8pI&usqp=CAU",
       "email": "info@royalrover.com",
       "pricing": "₹6500"
     },
@@ -1152,7 +1152,7 @@
       "id": 21,
       "company_name": "LavishLandaus",
       "vehicle_type": "Opulent Landau Carriage",
-      "image_url": "https://example.com/lavishlandaus.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pX4TjyEHuBEGNZn6AFSiGEEekQ58oPhKvg&usqp=CAU",
       "email": "info@lavishlandaus.com",
       "pricing": "₹9500"
     },
@@ -1160,7 +1160,7 @@
       "id": 22,
       "company_name": "MysticMotorcade",
       "vehicle_type": "Mystical Motorcade",
-      "image_url": "https://example.com/mysticmotorcade.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8No3A_W6UxqpMQe0PZrx1hW5fSx1Ruk9L7w&usqp=CAU",
       "email": "info@mysticmotorcade.com",
       "pricing": "₹8000"
     },
@@ -1168,7 +1168,7 @@
       "id": 23,
       "company_name": "GoldenChariots",
       "vehicle_type": "Golden Chariot",
-      "image_url": "https://example.com/goldenchariots.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBGJQR9VtubjIhAeCiCNuRtM7_3h7Qm51Ew&usqp=CAU",
       "email": "info@goldenchariots.com",
       "pricing": "₹12000"
     },
@@ -1176,7 +1176,7 @@
       "id": 24,
       "company_name": "VibrantVoyage",
       "vehicle_type": "Colorful Vintage Car",
-      "image_url": "https://example.com/vibrantvoyage.jpg",
+      "image_url": "https://storage.googleapis.com/uscimages/busRunning.jpeg",
       "email": "info@vibrantvoyage.com",
       "pricing": "₹4500"
     },
@@ -1184,7 +1184,7 @@
       "id": 25,
       "company_name": "EnchantedEscape",
       "vehicle_type": "Whimsical Escape Carriage",
-      "image_url": "https://example.com/enchantedescape.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJNyOA-6ilRU_2DkfRY7-83_AG8ACHRsWqpA&usqp=CAU",
       "email": "info@enchantedescape.com",
       "pricing": "₹7000"
     },
@@ -1192,7 +1192,7 @@
       "id": 26,
       "company_name": "DreamlandDrovers",
       "vehicle_type": "Dreamland Horse Cart",
-      "image_url": "https://example.com/dreamlanddrovers.jpg",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/4a/52/1b/routemaster-bus-hire.jpg?w=500&h=400&s=1",
       "email": "info@dreamlanddrovers.com",
       "pricing": "₹5500"
     },
@@ -1200,7 +1200,7 @@
       "id": 27,
       "company_name": "ClassicCruise",
       "vehicle_type": "Classic Cruise Car",
-      "image_url": "https://example.com/classiccruise.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuLJ5tOBO1ZXmzINCGBqxqSSy98tu9zigO-rwzYf_XSRUhOOeREaBb936AE1kYeNMnV8&usqp=CAU",
       "email": "info@classiccruise.com",
       "pricing": "₹5000"
     },
@@ -1208,7 +1208,7 @@
       "id": 28,
       "company_name": "SapphireStallions",
       "vehicle_type": "Sapphire-Adorned Stallions",
-      "image_url": "https://example.com/sapphirestallions.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Wa-kkKgn2WpzPCMoi5kSWW5rxWMfE5v_Y150Zi9P2ZRT43BEpDeGSZFwiFy0RU6gpfQ&usqp=CAU",
       "email": "info@sapphirestallions.com",
       "pricing": "₹18000"
     },
@@ -1216,7 +1216,7 @@
       "id": 29,
       "company_name": "RadiantRetro",
       "vehicle_type": "Radiant Retro Car",
-      "image_url": "https://example.com/radianteretro.jpg",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzrUB02QOmJ645SxWq8Qd-bgNQazyLqyntssmNdbE-TkObQi9LcjOMlK1w5BJm_zCddc&usqp=CAU",
       "email": "info@radianteretro.com",
       "pricing": "₹6000"
     },
@@ -1224,7 +1224,7 @@
       "id": 30,
       "company_name": "ChicCinderella",
       "vehicle_type": "Chic Cinderella Carriage",
-      "image_url": "https://example.com/chiccinderella.jpg",
+      "image_url": "https://static.toiimg.com/thumb/msid-79801721,imgsize-570736,width-400,resizemode-4/79801721.jpg",
       "email": "info@chiccinderella.com",
       "pricing": "₹9500"
     }
