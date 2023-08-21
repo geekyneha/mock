@@ -1360,7 +1360,41 @@
       "email": "info@chiccinderella.com",
       "pricing": "₹9500"
     }
-  ]
+  ],
+
+  "feedback":[
+    {
+        "id":"#JohnAndJane",
+        "user_name":"John and Jane",
+        "user_profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc36IOygIzOi5tETj6-GOzKUsOgIAsYEzidg&usqp=CAU",
+        "message":"Bliss Bond made our wedding day an absolute dream come true. Every detail was meticulously planned and executed to perfection. We couldn't have asked for a better team to bring our vision to life."
+    },
+    {
+        "id":"#MikeAndEmily",
+        "user_name":"Mike and Emily",
+        "user_profile":"https://www.bonobology.com/wp-content/uploads/2018/07/married-couple.jpg",
+        "message":"Bliss Bond made our wedding day an absolute dream come true. Every detail was meticulously planned and executed to perfection. We couldn't have asked for a better team to bring our vision to life."
+    },
+    {
+        "id":"#DavidAndSarah",
+        "user_name":"David and Sarah",
+        "user_profile":"https://i.pinimg.com/originals/0f/c8/1f/0fc81f8041701fc5d9439464dbf3649e.jpg",
+        "message":"Bliss Bond made our wedding day an absolute dream come true. Every detail was meticulously planned and executed to perfection. We couldn't have asked for a better team to bring our vision to life."
+    },
+    {
+        "id":"#TomAndLisa",
+        "user_name":"Tom and Lisa",
+        "user_profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFU5eRjnjDmltFF2YU484GoCujono1_SljaFDb2rlBKrqVUMs4REjPlMChqt1OaTtR1Oo&usqp=CAU",
+        "message":"Bliss Bond made our wedding day an absolute dream come true. Every detail was meticulously planned and executed to perfection. We couldn't have asked for a better team to bring our vision to life."
+    },
+    {
+        "id":"#RobertAndJessica",
+        "user_name":"Robert and Jessica",
+        "user_profile":"https://i.pinimg.com/originals/81/8b/10/818b10cf03f1736027420fbaec28c822.jpg",
+        "message":"Bliss Bond made our wedding day an absolute dream come true. Every detail was meticulously planned and executed to perfection. We couldn't have asked for a better team to bring our vision to life."
+    }
+]
+
 }
 
 
